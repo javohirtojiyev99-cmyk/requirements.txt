@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+flask
+pymongo
+yt-dlp
+requests
+gunicorn
+python-dotenv
+ffmpeg-python
